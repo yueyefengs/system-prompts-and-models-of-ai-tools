@@ -52,6 +52,14 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
  </picture>
 </a>
 
+## 🗓️ **Zero Calendar**
+
+**An Open-Source AI-Powered Calendar for the Future of Scheduling**
+
+Zero Calendar is an open-source AI calendar solution that gives users the power to manage their schedule intelligently while integrating with external services like Google Calendar and other calendar providers. Our goal is to modernize and improve scheduling through AI agents to truly revolutionize how we manage our time.
+
+For more details, check out the [Zero Calendar repository](https://github.com/Zero-Calendar/zero-calendar).
+
 ## ❤️ Support the Project
 
 If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
